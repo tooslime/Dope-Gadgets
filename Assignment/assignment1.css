@@ -1,0 +1,16 @@
+.GADGETS{
+    color: burlywood;
+    border: 2px solid burlywood ; border-radius: 30%;
+    width: 20%;
+    margin-left: 40%;
+    text-align: center;
+    background-color: black;
+    font-family: serif;
+}
+body{
+    background-color: white;
+}
+.IMG{
+    width: 100;
+    height: 500;
+}
